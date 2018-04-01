@@ -1,0 +1,18 @@
+{
+  "name": "gpx-to-kml",
+  "version": "1.0.0",
+  "description": "Gpx To Kml converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Kellner",
+  "license": "MIT",
+  "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "body-parser": "^1.18.2",
+    "download": "^6.2.5",
+    "express": "^4.16.3",
+    "tokml": "^0.4.0"
+  }
+}
