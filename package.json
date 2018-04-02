@@ -4,8 +4,15 @@
   "description": "Gpx To Kml converter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js"
   },
+  "keywords": [
+    "gpx",
+    "kml",
+    "converter",
+    "gpxToKml",
+    "gpx-To-Kml"
+  ],
   "author": "Christian Kellner",
   "license": "MIT",
   "dependencies": {
